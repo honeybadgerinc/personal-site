@@ -1,9 +1,0 @@
-language: go
-
-os: linux
-
-install:
-  - apt install sshpass
-  - wget -c https://github.com/gohugoio/hugo/releases/download/v0.77.0/hugo_0.77.0_Linux-64bit.tar.gz -O - | tar -xz
-  - ./hugo
-  - sshpass -p ${BLOG_PASSWORD} scp -r public ${BLOG_USER}@${BLOG_SERVER}:/home/personal-site/
