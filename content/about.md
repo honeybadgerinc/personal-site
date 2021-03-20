@@ -5,12 +5,21 @@ draft: "false"
 ---
 
 # **Technical skills**
-<p style="font-size: 16px;">Java: (Spring Boot/MVC/Web); Hibernate; Intellij </p>
+<p style="font-size: 16px;">Java: (Spring [Boot|MVC|Web]); Go </p>
 <p style="font-size: 16px;">Redis; PostgreSQL</p>
 
 # **Professional Experience**
 
-<span style="color:blue; font-size: 18px;">**Auto/Mate Dealership Systems**</span><span style="float: right;">*1/2019 – present*</span>
+<span style="color:blue; font-size: 18px;">**Wolfjaw Studios**</span><span style="float: right;">*1/2021 – present*</span>
+
+<span style="color:#505050; font-size: 16px;">**Junior Developer**</span><span style="float: right;">*Troy, NY*</span>
+
+<ul>
+<li>Currently refactoring and re-architecting a high-performance, high-visibility Go service.</li>
+<li>Technologies utilized: Go; Python; MySQL; gRPC; Protobuf</li>
+</ul>
+
+<span style="color:blue; font-size: 18px;">**Auto/Mate Dealership Systems**</span><span style="float: right;">*1/2019 – 1/2021*</span>
 
 <span style="color:#505050; font-size: 16px;">**Software Engineer**</span><span style="float: right;">*Albany, NY*</span>
 

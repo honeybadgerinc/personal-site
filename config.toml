@@ -40,9 +40,14 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "About Me"
 url = "/about"
 weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
 [markup]
   [markup.goldmark]
