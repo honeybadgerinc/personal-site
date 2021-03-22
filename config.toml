@@ -1,4 +1,4 @@
-baseURL = "http://lucas-henry.com/"
+baseURL = "https://lucas-henry.com/"
 languageCode = "en-us"
 title = "Lucas Henry"
 theme="archie"
