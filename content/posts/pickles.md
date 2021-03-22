@@ -14,24 +14,23 @@ tags: [Cooking]
     3. 1.5 tablespoons kosher/canning/pickling salt (anything but table salt, really) per 1 part water
 
 2. Prep your herbs and spices
-    1. Mustard seed
-    2. Fresh diced garlic
-    3. Rosemary (I'd recommend whole fresh springs, otherwise the needles float to the top)
-    4. Dill (again, whole fresh sprigs are preferable)
-    5. Whole peppercorns
-    6. Corriander
+    - Mustard seed
+    - Fresh diced garlic
+    - Rosemary (I'd recommend whole fresh springs, otherwise the needles float to the top)
+    - Dill (again, whole fresh sprigs are preferable)
+    - Whole peppercorns
+    - Corriander
 
 3. Combine
-    1. All ingredients should be completely submerged. If not, make another batch of brine but go easy on the vinegar, and use more water instead.
+    - All ingredients should be completely submerged. If not, make another batch of brine but go easy on the vinegar, and use more water instead.
 
-Here's where it gets fun:
-
-a. I used a lot of garlic. An unholy amount, really. Use so much that when you look in the jar, it looks almost like a snowglobe.
-b. Lots of peppercorns. For my huge jar (pic below), I used probably 1/3 or 1/2 of a cup.
-c. Mess it up with dill and rosemary. I mean cram really that thing.
+    Here's where it gets fun:
+   - I used a lot of garlic. An unholy amount, really. Use so much that when you look in the jar, it looks almost like a snowglobe.
+   - Lots of peppercorns. For my huge jar (pic below), I used probably 1/3 or 1/2 of a cup.
+   - Mess it up with dill and rosemary. I mean cram really that thing.
 
 4. Shake
-    1. Again, there was so much garlic and peppercorns and mustard seed that it looked like a snowglobe.
+    - Again, there was so much garlic and peppercorns and mustard seed that it looked like a snowglobe.
 
 The most important part of a pickling recipe is the brine. The mixins are entirely up to you. I like peppery, garlicky, earthy things,
 so I went pretty hard.
