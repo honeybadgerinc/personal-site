@@ -9,9 +9,9 @@ tags: [Cooking]
 ## Recipe
 
 1. Make your brine
-    1. 2 parts water
-    2. 1 parts white vinegar
-    3. 1.5 tablespoons kosher/canning/pickling salt (anything but table salt, really) per 1 part water
+    1. 2 cups water
+    2. 1 cup white vinegar
+    3. 1.25 tablespoons kosher/canning/pickling salt (anything but table salt, really) per 2 cups water
 
 2. Prep your herbs and spices
     - Mustard seed
