@@ -42,3 +42,5 @@ fared with other vegetables. And all the flavors will get to comingle, which I c
 And don't ever forget that cooking is supposed to be fun (which isn't to say that _all_ food preparation should be euphoric. Rather, you 
 should feel comfortable experimenting and failing on occasion. How else are we supposed to learn?). If your batch of pickles isn't good enough to eat on their own,
 then just eat them on a sandwich and try again.
+
+![Example image](/static/pickles.jpg)
