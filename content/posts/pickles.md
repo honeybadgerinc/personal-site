@@ -43,4 +43,4 @@ And don't ever forget that cooking is supposed to be fun (which isn't to say tha
 should feel comfortable experimenting and failing on occasion. How else are we supposed to learn?). If your batch of pickles isn't good enough to eat on their own,
 then just eat them on a sandwich and try again.
 
-![Example image](/static/pickles.jpg)
+![pickles](/static/pickles.jpg)
