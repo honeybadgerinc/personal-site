@@ -3,7 +3,7 @@ title: Cold-packed pickles
 date: "2021-03-22"
 description: Pickles!
 tldr: Brine; garlic; profit
-tags: [Cooking]
+tags: [cooking]
 ---
 
 ## Recipe

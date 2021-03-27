@@ -3,7 +3,7 @@ title: Struct transactions
 date: "2021-03-20"
 description: A process for 'preparing' and 'committing' data changes
 tldr: Use a SQL-style PREPARE/BEGIN and COMMIT flow for mutating data that needs some kind of validation step
-tags: [Go, SQL]
+tags: [go, sql, programming]
 ---
 
 ## Background
