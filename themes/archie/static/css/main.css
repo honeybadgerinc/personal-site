@@ -12,6 +12,11 @@ html {
   font-size: 15px;
   line-height: 1.6em;
 }
+
+ol {
+  font-size: 14px;
+}
+
 body{
   display: block;
   margin: 8px;
