@@ -48,6 +48,9 @@ BenchmarkInsertIntoSliceFromSlice-4      4340052     275.1 ns/op    0 B/op      
   * Creating a map with `make` has two allocations. Creating a slice in a similar way has only one.
 * Appending
   * Appending to a slice from another slice is faster than appending to a slice from a map.
+    * Note that the benchmark does not invoke `make` with a length argument. This means the backing array of the slice needs
+      to grow for each addition to the slice (via `append`). But if there were a length argument of zero, then the calls to 
+      `append` wouldn't resize the backing array until the array's capacity had been reached.
 * Inserting
   * This one was interesting. Notice that it took the benchmark tool about four million invocations to get an answer about slices, where
   maps only needed about 400,000 invocations. I have no idea why that is. But again, inserting data from a slice into another slice
